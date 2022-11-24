@@ -10,7 +10,7 @@
 
 ### Hi there 👋
 
-### I'm a Frontend Developer living in and working in Athens
+### I'm Dimitris, a Frontend Developer living and working in Athens.
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
