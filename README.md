@@ -29,6 +29,5 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
 </p>  
 <p align="right">
-  <img height="180em" src="[https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis](https://activity-graph.herokuapp.com/graph?username=dmakrakis&theme=react)" />
-
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis](https://activity-graph.herokuapp.com/graph?username=dmakrakis&theme=react)"/>
 </p>  
