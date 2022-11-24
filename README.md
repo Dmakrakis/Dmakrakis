@@ -31,7 +31,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmakrakis&layout=compact&langs_count=8&hide=HCL"/>
 </p>  
 
-<p align="left">
+<!-- <p align="left">
  
    <img src="https://activity-graph.herokuapp.com/graph?username=Dmakrakis&bg_color=fffefe&title_color=2f80ed&line=40C463&hide_title=true&color=2f80ed">
-</p>  
+</p>   -->
