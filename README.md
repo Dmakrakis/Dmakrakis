@@ -6,7 +6,7 @@
 
 ### Languages & Tools 🛠
 
-![TypeSCript] (https://img.shields.io/npm/types/typescript)
+![TypeScript] (https://img.shields.io/npm/types/typescript)
 ### Analytics ⚙️
   
 
