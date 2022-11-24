@@ -8,10 +8,7 @@
 
 ### Analytics ⚙️
   
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
 
-</p>  
   
 <p align="left">
 <a href="https://github.com/Dmakrakis">
@@ -19,3 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmakrakis&layout=compact&langs_count=8&hide=HCL"/>
 </a>
 </p>
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
+
+</p>  
