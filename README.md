@@ -28,5 +28,5 @@
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
+   <img src="https://activity-graph.herokuapp.com/graph?username=Dmakrakis&theme=tokyo-night">
 </p>  
-
