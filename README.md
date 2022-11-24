@@ -33,5 +33,5 @@
 
 <p align="left">
  
-   <img src="https://activity-graph.herokuapp.com/graph?username=Dmakrakis&theme=merko">
+   <img src="https://activity-graph.herokuapp.com/graph?username=Dmakrakis&theme=vue">
 </p>  
