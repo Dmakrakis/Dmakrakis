@@ -7,7 +7,7 @@
 ### Languages & Tools 🛠
 ![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/npm/types/typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-gray?style=flat-square&logo=TailwindCSS)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)
