@@ -5,7 +5,7 @@
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
 ### Languages & Tools 🛠
-![React](https://img.shields.io/badge/-React-lightgrey?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-gray?style=flat-square&logo=react)
 ![Javascript](https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-gray?style=flat-square&logo=TypeScript)
 ![HTML5](https://img.shields.io/badge/-HTML5-gray?style=flat-square&logo=HTML5)
