@@ -30,6 +30,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmakrakis&layout=compact&langs_count=8&hide=HCL"/>
 </p>  
 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
 <!-- <p align="left">
  
    <img src="https://activity-graph.herokuapp.com/graph?username=Dmakrakis&bg_color=fffefe&title_color=2f80ed&line=40C463&hide_title=true&color=2f80ed">
