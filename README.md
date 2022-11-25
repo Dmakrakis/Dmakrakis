@@ -2,9 +2,8 @@
 
 ### I'm Dimitris, a Frontend Developer currently living and working in Athens.
 
-![Snake animation](https://github.com/Dmakrakis/Dmakrakis/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](Dmakrakis)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 ### Languages & Tools 🛠
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
