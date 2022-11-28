@@ -18,12 +18,8 @@
 ### Analytics ⚙️
   
 <p align="left">
-<a href="https://github.com/Dmakrakis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dmakrakis&count_private=true&show_icons=true"/>
- 
-</p>
-
 [![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis)](https://github.com/Dmakrakis/github-readme-stats)
+</p>
 </a>
 
 <p align="left">
