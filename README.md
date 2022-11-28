@@ -23,4 +23,4 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
  </p>
  
-[![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis&theme)](https://github.com/Dmakrakis/github-readme-stats)
+[![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis&show_icons=true)](https://github.com/Dmakrakis/github-readme-stats)
