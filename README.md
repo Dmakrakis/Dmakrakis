@@ -17,10 +17,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)
 ### Analytics ⚙️
   
-<p align="left">
+
 [![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis)](https://github.com/Dmakrakis/github-readme-stats)
-</p>
-</a>
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
