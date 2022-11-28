@@ -18,7 +18,7 @@
 ### Analytics ⚙️
   
 
-[![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis)](https://github.com/Dmakrakis/github-readme-stats&theme=dark)
+[![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis&theme=dark)](https://github.com/Dmakrakis/github-readme-stats&theme=dark)
 
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
