@@ -21,7 +21,5 @@
 [![Dmakrakis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmakrakis&theme)](https://github.com/Dmakrakis/github-readme-stats)
 <p align="left">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dmakrakis" />
-
- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmakrakis&layout=compact)](https://github.com/Dmakrakis/github-readme-stats)
  </p>
